@@ -4,6 +4,7 @@
 #' Author: Jemal S. Ahmed
 #' email: JemalSeid.Ahmed@santannapisa.it
 #' github: https://github.com/jemsethio/DHS_Ethiopia.git
+#' Affiliation: Institute of Plant Science, Scuola Superiore Sant'Anna
 #' Date: 25 June 2024
 #' 
 #' Objectives:
